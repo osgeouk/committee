@@ -1,6 +1,6 @@
 ---
 name: Add new committee member
-about: Issues required when adding a new committee member to OSGeo:UK
+about: Tasks required when adding a new committee member to OSGeo:UK
 title: ''
 labels: ''
 assignees: ''
